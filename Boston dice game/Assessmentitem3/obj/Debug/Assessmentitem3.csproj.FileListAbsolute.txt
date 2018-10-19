@@ -1,0 +1,7 @@
+E:\Assignment\Assessmentitem3\Assessmentitem3\bin\Debug\Assessmentitem3.exe.config
+E:\Assignment\Assessmentitem3\Assessmentitem3\bin\Debug\Assessmentitem3.exe
+E:\Assignment\Assessmentitem3\Assessmentitem3\bin\Debug\Assessmentitem3.pdb
+E:\Assignment\Assessmentitem3\Assessmentitem3\obj\Debug\Assessmentitem3.csprojResolveAssemblyReference.cache
+E:\Assignment\Assessmentitem3\Assessmentitem3\obj\Debug\Assessmentitem3.csproj.CoreCompileInputs.cache
+E:\Assignment\Assessmentitem3\Assessmentitem3\obj\Debug\Assessmentitem3.exe
+E:\Assignment\Assessmentitem3\Assessmentitem3\obj\Debug\Assessmentitem3.pdb

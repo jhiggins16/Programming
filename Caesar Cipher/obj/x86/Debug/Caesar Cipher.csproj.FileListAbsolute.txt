@@ -1,0 +1,6 @@
+C:\Users\james\Documents\Uni 1st Year\Program & DS\Caesar Cipher\bin\Debug\ConsoleApplication.exe
+C:\Users\james\Documents\Uni 1st Year\Program & DS\Caesar Cipher\bin\Debug\ConsoleApplication.pdb
+C:\Users\james\Documents\Uni 1st Year\Program & DS\Caesar Cipher\obj\x86\Debug\Caesar Cipher.csprojAssemblyReference.cache
+C:\Users\james\Documents\Uni 1st Year\Program & DS\Caesar Cipher\obj\x86\Debug\Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Uni 1st Year\Program & DS\Caesar Cipher\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\james\Documents\Uni 1st Year\Program & DS\Caesar Cipher\obj\x86\Debug\ConsoleApplication.pdb

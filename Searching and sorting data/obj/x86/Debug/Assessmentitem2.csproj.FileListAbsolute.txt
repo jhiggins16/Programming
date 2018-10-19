@@ -1,0 +1,12 @@
+E:\Alg coursework\bin\Debug\ConsoleApplication.exe
+E:\Alg coursework\bin\Debug\ConsoleApplication.pdb
+E:\Alg coursework\obj\x86\Debug\Assessmentitem2.csprojResolveAssemblyReference.cache
+E:\Alg coursework\obj\x86\Debug\Assessmentitem2.csproj.CoreCompileInputs.cache
+E:\Alg coursework\obj\x86\Debug\ConsoleApplication.exe
+E:\Alg coursework\obj\x86\Debug\ConsoleApplication.pdb
+E:\James Higgins(15620181) supporting code\bin\Debug\ConsoleApplication.exe
+E:\James Higgins(15620181) supporting code\bin\Debug\ConsoleApplication.pdb
+E:\James Higgins(15620181) supporting code\obj\x86\Debug\Assessmentitem2.csprojResolveAssemblyReference.cache
+E:\James Higgins(15620181) supporting code\obj\x86\Debug\Assessmentitem2.csproj.CoreCompileInputs.cache
+E:\James Higgins(15620181) supporting code\obj\x86\Debug\ConsoleApplication.exe
+E:\James Higgins(15620181) supporting code\obj\x86\Debug\ConsoleApplication.pdb
